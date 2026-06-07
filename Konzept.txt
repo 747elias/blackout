@@ -4,5 +4,4 @@ Eine Windows App
 In PowerPoint bei einer aktuellen Bildschirmpräsentation gibt es ja die Funktion das ich die Tast "b" drücken kann und somit der Bildschirm auf dem die Präsentation läuft schwarz wird ich möchte so eine App für windows bauen.
 Kennen sie das Problem wenn sie z. B. einen Video an Ihrem Laptop zeigen wollen und sich schon mit einem externen Bildschirm verbunden haben aber sie das Video erst in 10 Minuten zeigen möchten und nicht dann erst den Fernseher einrichten wollen dafür baue ich eine Lösung.
 Ich werde eine App bauen indem sie wie in PowerPoint mit einer von Ihenn bestimmten Tastenkombination ihren bildschirm schwarz machen können. Entweder alle Bildschirme oder nur Ihren externen dafür wird es dann verschieden Tastenkombinationen geben.
-
-test
+1
